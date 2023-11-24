@@ -199,6 +199,18 @@
     {
       "object": "Soda Bottle",
       "action": "recycle"
+    },
+    {
+      "object": "Used Condom",
+      "action": "trash"
+    },
+    {
+      "object": "Diploma from University of Phoneix",
+      "action": "recycle"
+    },
+    {
+      "object": "Joey's Cum Sock",
+      "action": "trash"
     }
   ]
 }
